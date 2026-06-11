@@ -590,3 +590,4 @@ odswiez_liste_lekow()
 odswiez_combobox_klientow()
 
 root.mainloop()
+
